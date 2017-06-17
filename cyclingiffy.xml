@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bicycle0" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle1" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle2" android:duration="200"/>
+
+    <item android:drawable="@drawable/bicycle3" android:duration="200"/>
+
+    <item android:drawable="@drawable/bicycle4" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle5" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle6" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle7" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle8" android:duration="200"/>
+
+    <item android:drawable="@drawable/bicycle9" android:duration="200"/>
+
+    <item android:drawable="@drawable/bicycle10" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle11" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle12" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle13" android:duration="200"/>
+    <item android:drawable="@drawable/bicycle14" android:duration="200"/>
+
+    <item android:drawable="@drawable/bicycle15" android:duration="200"/>
+
+
+
+
+</animation-list>

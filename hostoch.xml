@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ho0" android:duration="200"/>
+    <item android:drawable="@drawable/ho1" android:duration="200"/>
+    <item android:drawable="@drawable/ho2" android:duration="200"/>
+
+    <item android:drawable="@drawable/ho3" android:duration="200"/>
+
+    <item android:drawable="@drawable/ho4" android:duration="200"/>
+    <item android:drawable="@drawable/ho5" android:duration="200"/>
+    <item android:drawable="@drawable/ho6" android:duration="200"/>
+
+
+</animation-list>
